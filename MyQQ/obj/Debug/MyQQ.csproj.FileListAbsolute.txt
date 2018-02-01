@@ -1,0 +1,12 @@
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\bin\Debug\MyQQ.exe.config
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\bin\Debug\MyQQ.exe
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\bin\Debug\MyQQ.pdb
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.exe
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.pdb
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_login.resources
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_main.resources
+d:\documents\visual studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+D:\Documents\Visual Studio 2017\Projects\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
